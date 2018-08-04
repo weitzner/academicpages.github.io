@@ -1,5 +1,5 @@
 ---
-title: "ChemE 1120"
+title: "Teaching Assistant, ChemE 1120"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2008-fall-teaching
