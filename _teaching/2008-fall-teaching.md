@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant, ChemE 1120"
 collection: teaching
-type: "Undergraduate course"
+type: "Introduction to Chemical Engineering"
 permalink: /teaching/2008-fall-teaching
 venue: "Cornell University, Department of Chemical and Biomolecular Engineering"
 date: 2008-08-01
