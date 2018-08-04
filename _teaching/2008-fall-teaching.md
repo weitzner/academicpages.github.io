@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2008-fall-teaching
 venue: "Cornell University, Department of Chemical and Biomolecular Engineering"
-date: 2008-08
+date: 2008-08-01
 location: "Ithaca, NY"
 ---
 
