@@ -5,7 +5,7 @@ permalink: /publication/2009-05-01-sulfotransferase
 excerpt: "Analysis of the crystal packing interfaces in all 28 available crystal structures consisting of 17 crystal forms shows that the unusually small dimer interface previously identified by Petrotchenko et al. occurs in all of them."
 date: 2009-05-01
 venue: 'PROTEINS: Structure, Function, and Bioinformatics'
-citation: '<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/prot.22347"><b>Weitzner B</b>, Meehan T, Xu Q, Dunbrack R (2009) “An unusually small dimer interface is observed in all available crystal structures of cytosolic sulfotransferases,” <i>Proteins</i>. 75(2), 1097–134. DOI:0.1002/prot.22347</a>'
+citation: '<b>Weitzner B</b>, Meehan T, Xu Q, Dunbrack R (2009) “An unusually small dimer interface is observed in all available crystal structures of cytosolic sulfotransferases,” <i>Proteins</i>. 75(2), 1097–134. DOI:0.1002/prot.22347'
 ---
 
 <a href='https://onlinelibrary.wiley.com/doi/abs/10.1002/prot.22347'>Link to article here</a>.
