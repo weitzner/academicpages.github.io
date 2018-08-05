@@ -1,5 +1,5 @@
 ---
-title: “An unusually small dimer interface is observed in all available crystal structures of cytosolic sulfotransferases"
+title: An unusually small dimer interface is observed in all available crystal structures of cytosolic sulfotransferases
 category: articles
 permalink: /publication/2009-05-01-sulfotransferase
 excerpt: "Analysis of the crystal packing interfaces in all 28 available crystal structures consisting of 17 crystal forms shows that the unusually small dimer interface previously identified by Petrotchenko et al. occurs in all of them."

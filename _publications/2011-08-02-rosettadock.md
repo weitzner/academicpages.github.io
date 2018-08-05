@@ -1,5 +1,5 @@
 ---
-title: “Benchmarking and analysis of protein docking performance in Rosetta v3.2"
+title: Benchmarking and analysis of protein docking performance in Rosetta v3.2
 category: articles
 permalink: /publication/2011-08-02-rosettadock
 excerpt: "We present the most extensive benchmarking of the RosettaDock module to date and test capabilities of RosettaDock 3.2 against Docking Benchmark 3.0."
