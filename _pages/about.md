@@ -16,9 +16,9 @@ My work in the Baker Lab is supported by an Innovation Postdoctoral Fellowship f
 
 # Contact
 Brian D. Weitzner<br>
-University of Washington, Molecular Engineering and Sciences<br>
+University of Washington<br>
+Molecular Engineering and Sciences Building<br>
 Box 351655<br>
 Seattle, WA 98195-1655
 
 weitzner@uw.edu
-
