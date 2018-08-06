@@ -15,9 +15,9 @@ I completed my PhD at Johns Hopkins University in 2015, supervised by [Jeff Gray
 My work in the Baker Lab is supported by an Innovation Postdoctoral Fellowship from the [Washington Research Foundation](http://www.wrfseattle.org).
 
 # Contact
-Brian D. Weitzner
-University of Washington, Molecular Engineering and Sciences
-Box 351655
+Brian D. Weitzner\
+University of Washington, Molecular Engineering and Sciences\
+Box 351655\
 Seattle, WA 98195-1655
 
 weitzner@uw.edu
