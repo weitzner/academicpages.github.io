@@ -1,5 +1,5 @@
 ---
-title: Best practices in collaborative software development: lessons learned in the Rosetta Commons
+title: "Best practices in collaborative software development: lessons learned in the Rosetta Commons"
 collection: talks
 type: "Invited Talk"
 permalink: /talks/2018-09-24-best-practices
