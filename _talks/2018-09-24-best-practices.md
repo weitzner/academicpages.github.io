@@ -4,7 +4,7 @@ collection: talks
 type: "Invited Talk"
 permalink: /talks/2018-09-24-best-practices
 venue: "Institute for Disease Modeling"
-date: 2018-09-2401
+date: 2018-09-24
 location: "Bellevue, WA"
 ---
 
