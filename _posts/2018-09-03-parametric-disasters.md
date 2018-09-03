@@ -17,7 +17,7 @@ sin(\omega_1 t + \phi_1)$
 $y = R_0 \sin(\omega_0 t + \phi_0^\prime) + R_1 \sin(\omega_0 t + \phi_0^\prime) \cos(\omega_1 t + \phi_1) + R_1 \cos(\alpha) \cos(\omega_0 t + \phi_0^\prime) \sin(\omega_1 t + \phi_1)$
 $z = (\omega_0 R_0 / \tan(\alpha)) t - R_1 \sin(\alpha) \sin(\omega_1 t + \phi_1) + \Delta z$
 
-Grigoryan and DeGrado [described the paramters](https://doi.org/10.1016/j.jmb.2010.08.058) as: 
+Grigoryan and DeGrado [described the parameters](https://doi.org/10.1016/j.jmb.2010.08.058) as: 
 * $R_0$  Superhelical radius
 * $\omega_0$  Superhelical frequency/twist
 * $\phi_0$  Superhelical phase
