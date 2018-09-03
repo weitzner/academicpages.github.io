@@ -18,6 +18,6 @@ We successes [designing helical bundles](https://doi.org/10.1126/science.1257481
 
 Also with strands:
 
-<video width='720' height='480' preload='none' controls loop autoplay>
+<video width='720' height='550' preload='none' controls loop autoplay>
    <source src='https://weitzner.github.io/files/strand_disaster.mov' type='video/mp4'/>
 </video>
