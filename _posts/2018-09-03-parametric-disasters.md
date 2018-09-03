@@ -31,12 +31,16 @@ Grigoryan and DeGrado [described the parameters](https://doi.org/10.1016/j.jmb.2
 Calculations are made a little simpler by holding $R_1$ and $d$ fixed at the values for ideal helices (1.51 and 2.26 Å), and by distributing helices evenly about the $z$ axis, which gives $\phi_0$ legal values of $\\{0, 2\pi/n, 4\pi/n... 2(n-1) \pi/n\\}$.
 
 <video width='720' height='480' preload='none' loop autoplay>
-   <source src='https://weitzner.github.io/files/helical_disaster.mov' type='video/mp4'/>
+   <source src='https://weitzner.github.io/files/mov/helical_disaster.mov' type='video/mp4'/>
 </video>
 
 
 Also with strands:
 
 <video width='720' height='550' preload='none' loop autoplay>
-   <source src='https://weitzner.github.io/files/strand_disaster.mov' type='video/mp4'/>
+   <source src='https://weitzner.github.io/files/mov/strand_disaster.mov' type='video/mp4'/>
 </video>
+
+
+![alt text](https://weitzner.github.io/files/img/wb_math1.png "White board 1")
+![alt text](https://weitzner.github.io/files/img/wb_math2.png "White board 2")
