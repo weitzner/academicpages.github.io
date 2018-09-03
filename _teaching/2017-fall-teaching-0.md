@@ -2,9 +2,9 @@
 title: "Co-Instructor, Rosetta Boot Camp"
 collection: teaching
 type: "An intense week-long crash course to developing in Rosetta"
-permalink: /teaching/2013-fall-teaching-0
+permalink: /teaching/2017-fall-teaching-0
 venue: "Rosetta Commons"
-date: 2013-08-01
+date: 2017-08-28
 location: "Carborro, NC"
 ---
 
