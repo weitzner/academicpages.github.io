@@ -9,7 +9,7 @@ tags:
   - molecular modeling
 ---
 
-I recently got a new computer and I have been (slowly) going through my old files to try to some order around here. So, while I was doing this kind of twenty-first century upkeep, I stumbled across a file called “nope_nope_nope.mov”. Here’s what was in that file:
+I recently got a new computer and I have been (slowly) going through my old files to try to maintain a little order around here. So, while I was doing the ol' twenty-first century upkeep, I stumbled across a file called “nope_nope_nope.mov”. Here’s what was in that file:
 
 ![alt text](https://weitzner.github.io/files/mov/helical_disaster.gif "It's like a weird protein jellyfish, man.")
 
