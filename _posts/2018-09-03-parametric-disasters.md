@@ -10,14 +10,10 @@ tags:
 ---
 
 I recently got a new computer and I have been (slowly) going through my old files to try to some order around here. So, while I was doing this kind of twenty-first century upkeep, I stumbled across a file called “nope_nope_nope.mov”. Here’s what was in that file:
-<video width='720' height='480' preload='none' loop autoplay>
-   <source src='https://weitzner.github.io/files/mov/helical_disaster.mov' type='video/mp4'/>
-</video>
+![alt text](https://weitzner.github.io/files/mov/helical_disaster.gif "It's like a weird protein jellyfish, man.")
 
 There’s another one called “strand_fail.mov” that looks like this:
-<video width='720' height='550' preload='none' loop autoplay>
-   <source src='https://weitzner.github.io/files/mov/strand_disaster.mov' type='video/mp4'/>
-</video>
+![alt text](https://weitzner.github.io/files/mov/strand_disaster.gif "I think I could watch this all day.")
 
 What each of these movies show is a failed initial attempt at extending the parametric bundle design methods used in Rosetta. A little while ago, Vikram Mulligan and I sat down to think about what would be needed to describe a β barrel. We started off noting that a strand could be thought of as a helix in which every residue flips 180º, and that we would need to describe a "squishing" parameter to describe non-circular barrel systems.
 
@@ -51,18 +47,12 @@ One of the simplifying assumptions that is used in the equations above is that a
 ![alt text](https://weitzner.github.io/files/img/wb_math.png "It's possible that this was not the first time this was written up.")
 
 With the new $R_0$ term, we can stretch barrels in one dimension and evaluate metrics like hydrogen bonding along the way:
-<video width='720' height='540' preload='none' loop autoplay>
-   <source src='https://weitzner.github.io/files/mov/strand_sample_along_axis.mp4' type='video/mp4'/>
-</video>
+![alt text](https://weitzner.github.io/files/mov/strand_sample_along_axis.gif "Notice how the hydrogen bonds appear when the strands are arranged appropriately.")
 
 Here's what it looks like normal to the barrel axis:
-<video width='720' height='540' preload='none' loop autoplay>
-   <source src='https://weitzner.github.io/files/mov/strand_sample_orth.mp4' type='video/mp4'/>
-</video>
+![alt text](https://weitzner.github.io/files/mov/strand_sample_orth.gif "Here's a side view.")
 
 And then, finally, one can generate parameters and use some metric to perform monte carlo sampling of a parametrically-designed β barrel.
-<video width='720' height='540' preload='none' loop autoplay>
-   <source src='https://weitzner.github.io/files/mov/b_barrel_wiggle.mp4' type='video/mp4'/>
-</video>
+![alt text](https://weitzner.github.io/files/mov/b_barrel_wiggle.gif "Look at all that hydrogen bond goodness!")
 
 Thanks for all the fun times and good work, Vikram!
