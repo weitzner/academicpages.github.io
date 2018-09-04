@@ -24,7 +24,7 @@ What each of these movies show is a failed initial attempt at extending the para
 Vikram recently moved on to the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/) in New York, but this was a fun little project that kind of went nowhere so I thought I would share it here. Also, he took really detailed notes and made a lot of pretty pictures and it would be a shame for the world to not have them.
 
 ## First, some background
-We have had some success [designing helical bundles](https://doi.org/10.1126/science.1257481) from [parametric equations](https://doi.org/10.1107/S0365110X53001952) first developed by Francis Crick. These equations enable us to calculate the coordinates of each helical residue's alpha carbon using descriptors with clear physical meanings, whiich allows us to specify geometric properties or requirements of a helical bundle and quickly trace out a backbone based on those requirements.
+We have had some success [designing helical bundles](https://doi.org/10.1126/science.1257481) from [parametric equations](https://doi.org/10.1107/S0365110X53001952) first developed by Francis Crick. These equations enable us to calculate the coordinates of each helical residue's α carbon using descriptors with clear physical meanings, which allows us to specify geometric properties or requirements of a helical bundle and quickly trace out a backbone based on those requirements.
 
 The equations are:
 $x(t) = R_0 \cos(\omega_0 t + {\phi_0}^\prime) + R_1 \cos( \omega_0 t + {\phi_0}^\prime) \cos(\omega_1 t + \phi_1) - R_1 \cos(\alpha) \sin(\omega_0 t + {\phi_0}^\prime)
