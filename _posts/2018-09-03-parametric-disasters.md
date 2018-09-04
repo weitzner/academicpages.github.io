@@ -1,7 +1,7 @@
 ---
 title: 'Parametric disasters'
 published: 2018-09-03
-excerpt: "Parametric disasters"
+excerpt: "I recently got a new computer and I have been (slowly) going through my old files to try to some order around here. So, while I was doing this kind of twenty-first century upkeep, I stumbled across a file called “nope_nope_nope.mov”. Here’s what was in that file..."
 permalink: /posts/2018/08/parametric-disasters/
 tags:
   - python
