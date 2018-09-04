@@ -31,8 +31,7 @@ X(t) & = R_0 \cos(\omega_0 t + {\phi_0}^\prime) + R_1 \cos( \omega_0 t + {\phi_0
 &\qquad - R_1 \cos(\alpha) \sin(\omega_0 t + {\phi_0}^\prime) \sin(\omega_1 t + \phi_1) \\\ \\\
 Y(t) & = R_0 \sin(\omega_0 t + {\phi_0}^\prime) + R_1 \sin(\omega_0 t + {\phi_0}^\prime) \cos(\omega_1 t + \phi_1) \\\
 &\qquad + R_1 \cos(\alpha) \cos(\omega_0 t + {\phi_0}^\prime) \sin(\omega_1 t + \phi_1) \\\ \\\
-Z(t) & = (\omega_0 R_0 / \tan(\alpha)) t - R_1 \sin(\alpha) \sin(\omega_1 t + \phi_1) \\\
-&\qquad + \Delta z
+Z(t) & = (\omega_0 R_0 / \tan(\alpha)) t - R_1 \sin(\alpha) \sin(\omega_1 t + \phi_1) + \Delta z
 \end{align\*}
 
 Grigoryan and DeGrado [described the parameters](https://doi.org/10.1016/j.jmb.2010.08.058) as:
