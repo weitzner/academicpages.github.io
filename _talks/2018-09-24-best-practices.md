@@ -8,4 +8,4 @@ date: 2018-09-24
 location: "Bellevue, WA"
 ---
 
-How do you get 500 biochemists to write complex, performant modeling software? This talk discusses the challenges, successes, necessary structures, both social and technical, and lessons learned collaboratively developing software in the Rosetta Commons.
+How do you get 500 biochemists to write complex, performant modeling software? This talk discusses the challenges, successes, necessary structures (both social and technical) and lessons learned collaboratively developing software in the Rosetta Commons.
