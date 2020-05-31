@@ -57,12 +57,10 @@ layout: default
 
 
                 {% if page.citation and page.paperurl %}
-                {% comment %}
-                <!-- <p>Recommended citation: {{ page.citation }} <a
-                        href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p> -->{% endcomment %}
+                <p>Suggested citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a>
+                </p>
                 {% elsif page.citation %}
-                {% comment %}
-                <!-- <p>Recommended citation: {{ page.citation }} </p> -->{% endcomment %}
+                <p>Suggested citation: {{ page.citation }} </p>
                 {% endif %}
 
             </header>
