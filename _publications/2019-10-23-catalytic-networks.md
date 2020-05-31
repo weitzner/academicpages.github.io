@@ -5,7 +5,7 @@ permalink: /publication/2019-10-23-catalytic-networks
 excerpt: "Our new method starts from a ChemDraw‐like two‐dimensional representation of the transition state with hydrogen‐bond donors, acceptors, and covalent interaction sites indicated, and all placements of side‐chain functional groups that make the indicated interactions with the transition state, and are fully connected in a single hydrogen‐bond network are systematically enumerated. Used in conjunction with RosettaMatch, this method generates many fully‐connected active site solutions for a set of model reactions that are promising starting points for the design of fully‐preorganized enzyme catalysts."
 date: 2019-10-23
 venue: 'Protein Science'
-citation: 'Weitzner BD*, Kipnis Y*, Daniel AG*, Hilvert D, Baker D (2019) "A computational method for design of connected catalytic networks in proteins," Protein Science. 28(12), 2036-2041 DOI: 10.1002/pro.3757
+citation: 'Weitzner BD*, Kipnis Y*, Daniel AG*, Hilvert D, Baker D (2019) "A computational method for design of connected catalytic networks in proteins," <i>Protein Sci.</i> 28(12), 2036-2041 DOI: 10.1002/pro.3757
 (* equal contribution authors)'
 paperurl: 'https://doi.org/10.1002/pro.3757'
 authors: 'Weitzner BD, Kipnis Y, Daniel AG, et al.'

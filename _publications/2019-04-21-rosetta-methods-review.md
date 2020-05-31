@@ -5,7 +5,7 @@ permalink: /publication/2019-04-21-rosetta-methods-review
 excerpt: "We discuss the methods developed in the last five years, involving the latest protocols for structure prediction, protein–protein and protein–small molecule docking, protein structure and interface design, loop modeling, the incorporation of various types of experimental data, and modeling of peptides, antibodies and other proteins in the immune system, nucleic acids, non-standard amino acids, carbohydrates, and membrane proteins. We also briefly discuss improvements to the energy function, user interfaces, and usability of the ­­software."
 date: 2019-04-21
 venue: 'Preprints'
-citation: 'Koehler Leman J*, Weitzner BD*, Lewis SM*, RosettaCommons Consortium, Bonneau R (2019) "Macromolecular Modeling and Design in Rosetta: New Methods and Frameworks," Preprints, 2019040263
+citation: 'Koehler Leman J*, Weitzner BD*, Lewis SM*, RosettaCommons Consortium, Bonneau R (2019) "Macromolecular Modeling and Design in Rosetta: New Methods and Frameworks," <i>Preprints</i>, 2019040263
 (* euqal contribution authors)'
 paperurl: 'https://www.preprints.org/manuscript/201904.0263'
 authors: 'Koehler Leman J, Weitzner BD, Lewis SM, et al.'

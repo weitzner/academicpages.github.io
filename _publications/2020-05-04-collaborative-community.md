@@ -5,7 +5,7 @@ permalink: /publication/2020-05-04-collaborative-community
 excerpt: "We demonstrate how modern computational research can thrive in a distributed collaborative community. The practices described here are independent of subject area and can be readily adopted by other software development communities."
 date: 2020-05-04
 venue: 'PLOS Computational Biology'
-citation: 'Koehler Leman  J*, Weitzner BD*, Renfrew PD, Lewis SM, Moretti R, Watkins AM, Mulligan VK, Lyskov S, Adolf-Bryfogle J, Labonte JW, Krys J, RosettaCommons Consortium, Bystroff C, Schief W, Gront D, Schueler-Furman O, Baker D, Bradley P, Dunbrack R, Kortemme T, Leaver-Fay A, Strauss CEM, Meiler J, Kuhlman B,Gray JJ, Bonneau R (2020) "Better together: Elements of successful scientific software development in a distributed collaborative community," PLoS Comput. Biol. 16(5): e1007507. DOI: 10.1371/journal.pcbi.1007507
+citation: 'Koehler Leman  J*, Weitzner BD*, Renfrew PD, Lewis SM, Moretti R, Watkins AM, Mulligan VK, Lyskov S, Adolf-Bryfogle J, Labonte JW, Krys J, RosettaCommons Consortium, Bystroff C, Schief W, Gront D, Schueler-Furman O, Baker D, Bradley P, Dunbrack R, Kortemme T, Leaver-Fay A, Strauss CEM, Meiler J, Kuhlman B,Gray JJ, Bonneau R (2020) "Better together: Elements of successful scientific software development in a distributed collaborative community," <i>PLOS Comput. Biol.</i> 16(5): e1007507. DOI: 10.1371/journal.pcbi.1007507
 (* equal contribution authors)'
 paperurl: 'https://doi.org/10.1371/journal.pcbi.1007507'
 authors: 'Koehler Leman J, Weitzner BD, et al.'

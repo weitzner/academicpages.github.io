@@ -5,7 +5,7 @@ permalink: /publication/2020-02-06-pyrosetta-jupyter
 excerpt: "We have created a hands-on education strategy with a set of fifteen modules implemented as Jupyter Notebooks that teach topics in biomolecular structure and design, from fundamentals of conformational sampling and energy evaluation to applications like protein docking, antibody design, and RNA structure prediction."
 date: 2020-02-06
 venue: 'Preprints'
-citation: 'Le, K, Adolf-Bryfogle J, Klima J, Lyskov S, Labonte J, Bertolani, S, Roy Burman S, Leaver-Fay A, Weitzner B, Maguire J, Rangan R, Adrianowycz M, Alford R, Adal A, Nance M, Das R, Dunbrack R, Schief W Kuhlman, B, Siegel J, Gray, J (2020) "PyRosetta Jupyter Notebooks Teach Biomolecular Structure Prediction and Design," Preprints, 2020020097 DOI: 10.20944/preprints202002.0097.v1'
+citation: 'Le, K, Adolf-Bryfogle J, Klima J, Lyskov S, Labonte J, Bertolani, S, Roy Burman S, Leaver-Fay A, Weitzner B, Maguire J, Rangan R, Adrianowycz M, Alford R, Adal A, Nance M, Das R, Dunbrack R, Schief W Kuhlman, B, Siegel J, Gray, J (2020) "PyRosetta Jupyter Notebooks Teach Biomolecular Structure Prediction and Design," <i>Preprints</i> 2020020097 DOI: 10.20944/preprints202002.0097.v1'
 paperurl: 'https://doi.org/10.20944/preprints202002.0097.v1'
 authors: 'Le, K, et al.'
 ---

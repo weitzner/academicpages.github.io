@@ -5,7 +5,7 @@ permalink: /publication/2019-09-08-pydata-pyrosetta
 excerpt: "Our new tools enable users, who would otherwise not have access to the necessary computational infrastructure, to perform state‐of‐the‐art molecular simulation and design with Rosetta."
 date: 2019-09-08
 venue: 'Protein Science'
-citation: 'Ford AS, Weitzner BD, Bahl CD (2019) "Integration of the Rosetta suite with the python software stack via reproducible packaging and core programming interfaces for distributed simulation," Protein Science. 29(1), 43-51 DOI: 10.1002/pro.3721'
+citation: 'Ford AS, Weitzner BD, Bahl CD (2019) "Integration of the Rosetta suite with the python software stack via reproducible packaging and core programming interfaces for distributed simulation," <i>Protein Sci.</i> 29(1), 43-51 DOI: 10.1002/pro.3721'
 paperurl: 'https://doi.org/10.1002/pro.3721'
 authors: 'Ford AS, Weitzner BD, Bahl CD'
 ---
