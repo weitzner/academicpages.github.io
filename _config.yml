@@ -81,9 +81,9 @@ analytics:
 author:
   name             : "Brian D. Weitzner"
   avatar           : "bdw.jpg"
-  bio              : "Senior Scientist<br>Protein and Cell Engineering"
-  employer         : "https://lyell.com"
+  bio              : "Senior Scientist<br>Protein and Cell Engineering<br>Lyell Immunopharma"
   location         : "Seattle, Washington"
+  employer         :
   googlescholar    : "https://scholar.google.com/citations?user=Tg99WiMAAAAJ"
   email            : "bweitzner@lyell.com"
   uri              :
