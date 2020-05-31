@@ -5,7 +5,7 @@ permalink: /publication/2019-09-02-quantum-peptides
 excerpt: "We describe our mapping of the protein design problem to the D-Wave quantum annealer. We present a system whereby Rosetta, a state-of-the-art protein design software suite, interfaces with the D-Wave quantum processing unit to find amino acid side chain identities and conformations to stabilize a fixed protein backbone."
 date: 2019-09-02
 venue: 'bioRxiv'
-citation: 'Mulligan VK, Melo H, Merritt HI, Slocum S, Weitzner BD, Watkins AM, Renfrew PD, Pelissier C, Arora PS, Bonneau R (2019) "Designing Peptides on a Quantum Computer," bioRxiv. 752485, DOI: https://doi.org/10.1101/752485'
+citation: 'Mulligan VK, Melo H, Merritt HI, Slocum S, Weitzner BD, Watkins AM, Renfrew PD, Pelissier C, Arora PS, Bonneau R (2019) "Designing Peptides on a Quantum Computer," bioRxiv. 752485, DOI: 10.1101/752485'
 ---
 
 <a href='https://doi.org/10.1101/752485'>This article can be accessed here</a>.
