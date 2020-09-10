@@ -1,7 +1,7 @@
 ---
 title: "Macromolecular modeling and design in Rosetta: recent methods and frameworks."
 category: articles
-permalink: /publication/2019-06-01-rosetta-methods-review
+permalink: /publication/2020-06-01-rosetta-methods-review
 excerpt: "We discuss the methods developed in the last five years, involving the latest protocols for structure prediction, protein–protein and protein–small molecule docking, protein structure and interface design, loop modeling, the incorporation of various types of experimental data, and modeling of peptides, antibodies and other proteins in the immune system, nucleic acids, non-standard amino acids, carbohydrates, and membrane proteins. We also briefly discuss improvements to the energy function, user interfaces, and usability of the ­­software."
 date: 2020-06-01
 venue: 'Nature Methods'
