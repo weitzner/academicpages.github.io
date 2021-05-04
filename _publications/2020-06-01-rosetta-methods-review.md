@@ -6,7 +6,7 @@ excerpt: "We discuss the methods developed in the last five years, involving the
 date: 2020-06-01
 venue: 'Nature Methods'
 citation: 'Koehler Leman J*, Weitzner BD*, Lewis SM*, Adolf-Bryfogle J, Alam N, Alford RF, Aprahamian M, Baker D, Barlow KA, Barth P, Basanta B, Bender BJ, Blacklock K, Bonet J, Boyken SE, Bradley P, Bystroff C, Conway P, Cooper S, Correia BE, Coventry B, Das R, D JRM, DiMaio F, Dsilva L, Dunbrack R, Ford AS, Frenz B, Fu DY, Geniesse C, Goldschmidt L, Gowthaman R, Gray JJ, Gront D, Guffy S, Horowitz S, Huang P, Huber T, Jacobs TM, Jeliazkov JR, Johnson DK, Kappel K, Karanicolas J, Khakzad H, Khar KR, Khare SD, Khatib F, Khramushin A, King IC, Kleffner R, Koepnick B, Kortemme T, Kuenze G, Kuhlman B, Kuroda D, Labonte JW, Lai JK, Lapidoth G, Leaver-Fay A, Lindert S, Linsky T, London N, Lubin JH, Lyskov S, Maguire J, Malmström L, Marcos E, Marcu O, Marze NA, Meiler J, Moretti R, Mulligan VK, Nerli S, Norn C, Ó’Conchúir S, Ollikainen N, Ovchinnikov S, Pacella MS, Pan X, Park H, Pavlovicz RE, Pethe M, Pierce BG, Pilla KB, Raveh B, Renfrew PD, Burman SSR, Rubenstein A, Sauer MF, Scheck A, Schief W, Schueler-Furman O, Sedan Y, Sevy AM, Sgourakis NG, Shi L, Siegel JB, Silva D, Smith S, Song Y, Stein A, Szegedy M, Teets FD, Thyme SB, Wang RY, Watkins A, Zimmerman L, Bonneau R (2020) "Macromolecular modeling and design in Rosetta: recent methods and frameworks," <i>Nat. Methods</i>, 1548-7105 DOI: 10.1038/s41592-020-0848-2
-(* euqal contribution authors)'
+(* equal contribution authors)'
 paperurl: 'https://doi.org/10.1038/s41592-020-0848-2'
 authors: 'Koehler Leman J, Weitzner BD, Lewis SM, et al.'
 ---
