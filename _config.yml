@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Brian D. Weitzner"
 title_separator          : "-"
 name                     : &name "Brian D. Weitzner"
-description              : &description "Senior Scientist at Lyell Immunopharma"
+description              : &description "Senior Scientist at Outpace Bio"
 url                      : https://weitzner.org # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "weitzner/weitzner.github.io"
@@ -81,11 +81,11 @@ analytics:
 author:
   name             : "Brian D. Weitzner"
   avatar           : "bdw.jpg"
-  bio              : "Senior Scientist<br>Protein and Cell Engineering<br>Lyell Immunopharma"
+  bio              : "Senior Scientist<br>Protein and Cell Engineering<br>Outpace Bio"
   location         : "Seattle, Washington"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=Tg99WiMAAAAJ"
-  email            : "bweitzner@lyell.com"
+  email            : "bweitzner@outpacebio.com"
   uri              :
   bitbucket        :
   codepen          :
