@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Scientist at [Outpace Bio](https://outpacebio.com) in Seattle, WA where I use protein design to develop the next generation of cell-based therapies. We're just getting started, so check back to see what we're up to!
+I am a Principal Scientist at [Outpace Bio](https://outpacebio.com) in Seattle, WA where I use protein design to develop the next generation of cell-based therapies. We're just getting started, so check back to see what we're up to!
 
 ---
 
